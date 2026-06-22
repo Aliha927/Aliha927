@@ -25,55 +25,13 @@
 
 <br>
 
-### `[ tech_stack.scan ]`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00fff7&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0033&labelColor=000000)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00fff7&labelColor=000000)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff0033&labelColor=000000)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00fff7&labelColor=000000)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0033&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00fff7&labelColor=000000)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff0033&labelColor=000000)
-
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20" width="100%">
 
 ### `[ stats.exe ]`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alihafatima&show_icons=true&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=00fff7&icon_color=ff0033&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alihafatima&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=00fff7&currStreakLabel=00fff7" width="49%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihafatima&layout=compact&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=ff0033&text_color=ffffff" width="55%" />
-</div>
-
-<br>
-
-<div align="center">
-
-```
-░▒▓█ SYSTEM UNSTABLE — PROCEED ANYWAY █▓▒░
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20" width="100%">
-
-### `[ connect.sh ]`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=000000)](https://www.linkedin.com/in/alihafatima-chaudhry/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0033&labelColor=000000)](mailto:alihafatima030@gmail.com)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aliha927&show_icons=true&hide=stars&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=00fff7&icon_color=ff0033&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliha927&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=00fff7&currStreakLabel=00fff7" width="49%" />
 </div>
 
 <br>
