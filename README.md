@@ -23,18 +23,7 @@
 > sanity.exe   : has stopped responding
 ```
 
-<br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12,20" width="100%">
-
-### `[ stats.exe ]`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aliha927&show_icons=true&hide=stars&theme=radical&hide_border=true&bg_color=000000&border_color=ff0033&title_color=00fff7&icon_color=ff0033&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliha927&theme=radical&hide_border=true&background=000000&ring=ff0033&fire=00fff7&currStreakLabel=00fff7" width="49%" />
-</div>
-
-<br>
 
 <div align="center">
 
