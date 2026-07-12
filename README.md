@@ -32,3 +32,5 @@
 ![footer](https://capsule-render.vercel.app/api?type=transparent&color=0:00fff7,100:ff0033&height=100&section=footer)
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aliha927&theme=radical&hide_border=true)](https://git.io/streak-stats)
